@@ -1,0 +1,1 @@
+I need to comment out lines 414-435 of /App.tsx

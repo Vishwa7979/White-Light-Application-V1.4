@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+.DS_Store
+
+# Build outputs
+dist/
+build/
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Environment variables
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Maven
+.mvn/
+help.xml
+
+# Log files
+*.log

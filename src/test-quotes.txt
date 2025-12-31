@@ -1,0 +1,1 @@
+<AvatarSelectionScreen onSelect={(image) => { setMobileScreen('welcome'); setSelectedAvatarImage(image); }} />
